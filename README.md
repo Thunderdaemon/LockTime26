@@ -21,4 +21,4 @@ The spiritual successor to [LockTimeX](https://github.com/iVintageLover/LockTime
 ### Compatibilty & Support:
 The functionality of this tweak is dependent on [Matchstic's Xen HTML](https://github.com/Matchstic/Xen-HTML), making it compatible with iOS 9-14 (could potentially work on iOS 15 if you're using a rootful jailbreak, YMMV).
 
-You can join our [Discord server](discord.gg/a7PMKvTTzB) for support if you're having any issues with this tweak. 
+You can join our [Discord server](https://discord.gg/a7PMKvTTzB) for support if you're having any issues with this tweak. 
